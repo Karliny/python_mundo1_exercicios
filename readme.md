@@ -2,6 +2,8 @@
 
 Compilado de exercícios e respostas em linguagem Python, proposto pelo [Curso em Vídeo](https://www.cursoemvideo.com/). Ministrado pelo professor [Gustavo Guanabara](https://www.instagram.com/gustavoguanabara/).
 
+![Certificado](certificado_python.jpg)
+
 ### Sumário
 #### Mundo 1 -
 
